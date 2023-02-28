@@ -1,0 +1,26 @@
+I created a website for drivers, where users can see where are drivers, they are experience, how much the trip costs, can see how many people are sitting there, and so on.
+
+Entities: User, Driver, Customer , Admin.
+
+As a user, I will be able to see the driver's work experience.
+
+As a User, I can see all my requests.
+
+As a User, I can chatting with driver.
+
+As a user I will be able to see how much the trip will cost.
+
+As a user I will be able to see how long will be my ride.
+
+As a user I will be able to see a brand of car.
+
+As a user I will be able to share my geolocation.
+
+As a user I will able to choose my own price.
+
+As a user I can evaluate the work of the driver on a five-point scale.
+
+As a user I can create my account.
+
+As a user I can choose a method of payment.
+
